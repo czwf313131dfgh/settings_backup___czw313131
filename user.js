@@ -205,8 +205,6 @@ user_pref("mousewheel.default.delta_multiplier_y", 250); // 250-400; adjust this
 
 // PREF: restore search engine suggestions
 user_pref("browser.search.suggest.enabled", true);
-// PREF: restore Top Sites on New Tab page
-user_pref("browser.newtabpage.activity-stream.feeds.topsites", true);
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
