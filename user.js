@@ -167,6 +167,11 @@ user_pref("browser.ml.chat.menu", false);
 user_pref("browser.tabs.groups.smart.enabled", false);
 user_pref("browser.ml.linkPreview.enabled", false);
 
+/** FULLSCREEN NOTICE ***/
+user_pref("full-screen-api.transition-duration.enter", "0 0");
+user_pref("full-screen-api.transition-duration.leave", "0 0");
+user_pref("full-screen-api.warning.timeout", 0);
+
 /** URL BAR ***/
 user_pref("browser.urlbar.trending.featureGate", false);
 
