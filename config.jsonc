@@ -1,0 +1,62 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    {
+    "type": "custom",
+    "key": "Host",
+    "format": "Vivobook_SGo_ASUSLaptop D6731P_D6731P (1.0)"
+    },
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    {
+    "type": "custom",
+    "key": "Display",
+    "format": "1680x1050 @ 1.15x in 15\", 47 Hz"
+    },
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    {
+    "type": "custom",
+    "key": "CPU",
+    "format": "13th Gen Intel(R) Core(TM) i3-13500H (7) @ 3.11 GHz"
+    },
+    {
+    "type": "custom",
+    "key": "GPU",
+    "format": "NVIDIA GeForce RTX 1050"
+    },
+    {
+    "type": "custom",
+    "key": "Memory",
+    "format": "4.54 GiB / 6.79 GiB ({#yellow}67%{#})"
+    },
+    "swap",
+    {
+    "type": "custom",
+    "key": "Disk (/)",
+    "format": "53.05 GiB / 171.13 GiB ({#green}31%{#}) - ext3"
+    },
+    "battery",
+    "poweradapter",
+    {
+    "type": "custom",
+    "key": "Local IP",
+    "format": "192.168.711.385"
+    },
+    "locale",
+    "break",
+    "colors"
+  ]
+}
