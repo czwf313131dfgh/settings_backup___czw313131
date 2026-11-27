@@ -53,7 +53,7 @@
     {
     "type": "custom",
     "key": "Local IP",
-    "format": "192.168.711.385"
+    "format": "192.168.711.385/32"
     },
     "locale",
     "break",
